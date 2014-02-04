@@ -3,12 +3,19 @@ body {
     color: whitesmoke;
 }
 
+.square {
+    background-color: #000;
+    margin:auto;
+    width:70%;
+    height:70%;
+}
+
 #header {
-    text-align: center;
-    padding: 20px;
-    margin: 200px;
-    border: 1px solid darkgrey;
-    border-radius: 10px;
+
+}
+
+.square h1 {
+    color: #fff;
 }
 
 p#title {
