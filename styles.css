@@ -1,3 +1,18 @@
+body {
+    background-color: #343434;
+    color: whitesmoke;
+}
+
+#header {
+    text-align: center;
+    padding: 20px;
+    margin: 200px;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+}
+
 p#title {
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 200%;
 }
